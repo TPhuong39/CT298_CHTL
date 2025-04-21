@@ -6,7 +6,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 
-<b style="font-size: 18px;">🚀 Hướng Dẫn Cài Đặt Và Chạy Dự Án Laravel</b>
+<b style="font-size: 18px;">🚀 Hướng Dẫn Cài Đặt Và Chạy Dự Án Thông Tin Địa Lý Quản lý Cửa Hàng Tiện Lợi </b>
 <br><b>Yêu cầu hệ thống:</b><br>
 - PHP >= 8.0<br>
 - Composer<br>
