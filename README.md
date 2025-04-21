@@ -15,7 +15,7 @@
 
 <br><b>Cài Đặt:</b><br>
 - Clone dự án về máy qua câu lệnh: 
-  <code>git clone https://github.com/NgocMy03/Map01.git</code><br>
+  <code>git clone https://github.com/TPhuong39/CT298_CHTL.git</code><br>
 - Cài đặt các package PHP: 
   <code>composer install</code><br>
 - Tạo file <code>.env</code><br>
